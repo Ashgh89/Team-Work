@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Blue, Yellow, Red, Pink, Purple, Orange, Green, Lime
+=======
+blue yellow red
+>>>>>>> Marcel
